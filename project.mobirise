@@ -188,7 +188,7 @@
               "size": 250
             }
           },
-          "title": "Biography",
+          "title": "A Little About Me",
           "text": "I've been interested in digital design since &nbsp;I was very young since. I have seen many people (including the one in the background) who made comiics &nbsp;or animation. Digital drawing and animation has always interested me and photo altering programs such as Phtoshop have interested me for the past few years. &nbsp;I have dabbled in many digital programs such as Adobe Photoshop, Microsoft Word, Adobe Audition, Microsoft PowerPoint, Adobe Animate, and Adobe Premier. I find that I am highly expierenced in &nbsp;Microsoft Word and Microsoft Powerpoint. Also, I find I am rather expierenced in Adobe Photoshop. Finally, I think I need some work in programs such as Adobe Illustrator, Adobe Animate, and Adobe Premier.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#content7-8\" data-toolbar=\"-mbrBtnMove\">Continue Biography</a>"
         },
@@ -510,77 +510,124 @@
             "paddingBottom": 0,
             "images": [
               {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/matthew-richards-dvd-label-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/matthew-richards-dvd-label-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/matthew-richards-album-artwork-side-1-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/matthew-richards-album-artwork-side-1-2000x1000.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/matthew-richards-album-artwork-side-2-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/matthew-richards-album-artwork-side-2-2000x1000.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/matthew-richards-miami-dade-schools-logo-color-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/matthew-richards-miami-dade-schools-logo-color-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/matthew-richards-flash-logo-2-2000x1600-800x640.jpg",
+                "image": "@PROJECT_PATH@/assets/images/matthew-richards-flash-logo-2-2000x1600.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/iron-man-4-2000x2975-800x1190.jpg",
+                "image": "@PROJECT_PATH@/assets/images/iron-man-4-2000x2975.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/batman-logo-1-800x472.png",
+                "image": "@PROJECT_PATH@/assets/images/batman-logo-1.gif",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/avengers-2000x982-800x392.png",
+                "image": "@PROJECT_PATH@/assets/images/avengers-2000x982.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/matthew-richards-hulk-3-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/matthew-richards-hulk-3-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/matthew-richards-marvel-symbols-6-2000x1973-800x789.jpg",
+                "image": "@PROJECT_PATH@/assets/images/matthew-richards-marvel-symbols-6-2000x1973.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/matthew-richards-12-inch-record-layout-recovered-2000x3714-800x1485.jpg",
+                "image": "@PROJECT_PATH@/assets/images/matthew-richards-12-inch-record-layout-recovered-2000x3714.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2016-09-02-11-51-2000x2588-800x1035.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2016-09-02-11-51-2000x2588.jpg",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
             "spacing": "0",
