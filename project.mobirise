@@ -148,7 +148,7 @@
             "paddingTop": "7",
             "paddingBottom": "3",
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/cropped-pokemon-wallpaper-high-resolution-2000x1250.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
@@ -157,7 +157,7 @@
               "height": 720,
               "url": "https://www.youtube.com/embed/X8VnTLfScjE?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "overlay": true,
             "overlayOpacity": "0.7",
             "overlayColor": "#000",
