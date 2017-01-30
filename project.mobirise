@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 30,
+    "uniqCompNum": 31,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -112,7 +112,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-1-384x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-4-384x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -144,22 +144,22 @@
           "_name": "msg-box6",
           "_anchor": "msg-box6-2",
           "_params": {
-            "imageSize": "43",
+            "imageSize": "44",
             "paddingTop": "7",
             "paddingBottom": "3",
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cropped-pokemon-wallpaper-high-resolution-2000x1250.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/2yFCyPX3kT0?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/X8VnTLfScjE?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.7",
             "overlayColor": "#000",
             "inverse": true,
             "showTitle": true,
@@ -170,7 +170,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/matthew-1400x1750.jpg",
+              "src": "@PROJECT_PATH@/assets/images/matthew-2-1400x1750.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -223,7 +223,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": 3,
+            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
@@ -242,7 +242,7 @@
               "color": "black"
             }
           },
-          "title1": "Animation",
+          "title1": "Animator",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "I love animators and watching animations or animated movies. Inspirations for me have been Disney/Disney Pixar, animators online, and cartoonists. Because of this I would love to &nbsp;learn how to animate",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -258,7 +258,7 @@
               "color": "black"
             }
           },
-          "title2": "Digital Drawing",
+          "title2": "Digital Drawer/Cartoonist<br>",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Also like animations I love looking at the artwork people can make via a computer. I also love internet comics, and cartoonists. I have too many inspirations to list. I would just love to learn how to draw digitally.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -274,24 +274,25 @@
               "color": "black"
             }
           },
-          "title3": "Photo Altering",
+          "title3": "Photograph Editor",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Recently (in the past few years), I've been interested in photo alteration applications such as Photoshop. People who have inspired me were mainly Youtubers who made creative or cool looking images because of Photoshop. As I already know some of Photoshop I would like to learn more..",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
+              "linkInNewWindow": false,
+              "name": "book-open",
+              "family": "et-line",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
-              "family": "et-line"
+              "color": "black"
             }
           },
-          "title4": "Unlimited Sites",
+          "title4": "Creative Font",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "I would love to be an author or creative writer. It would let me express my thoughts, imagination and well creativity. &nbsp;I've had an interest in this ever since I started reading.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -382,9 +383,13 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-2-128x42.png",
               "width": 128,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -859,6 +864,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-r",
           "_params": {
             "labelsColor": "#232323",
@@ -904,12 +914,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
         },
         {
           "_tags": [
