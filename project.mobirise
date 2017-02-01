@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 31,
+    "uniqCompNum": 34,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -129,6 +129,43 @@
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPLICATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe Photoshop</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"word.html\">Ms Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">Ms PowerPoint</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier.html\">Adobe Premier<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe Photoshop</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">IC3<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"livingonline.html\">Living Online</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"computerfundementals.html\">Computer Fundamental</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier.html\">Adobe Premier<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Honors Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Community Member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Family Friend</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-x",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/293091-star-wars-r2-d2-robot-minimalism-bb-2000x1125.png",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "Welcome",
+          "text": "Hello stranger.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
           "_inherit": "msg-box5",
           "_styles": {
             ".mbr-section-title, .lead p": {
@@ -148,8 +185,8 @@
             "paddingTop": "7",
             "paddingBottom": "3",
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/cropped-pokemon-wallpaper-high-resolution-2000x1250.png",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/archer-2000x1000.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -157,7 +194,7 @@
               "height": 720,
               "url": "https://www.youtube.com/embed/X8VnTLfScjE?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.7",
             "overlayColor": "#000",
@@ -191,6 +228,26 @@
           "title": "A Little About Me",
           "text": "I've been interested in digital design since &nbsp;I was very young since. I have seen many people (including the one in the background) who made comiics &nbsp;or animation. Digital drawing and animation has always interested me and photo altering programs such as Phtoshop have interested me for the past few years. &nbsp;I have dabbled in many digital programs such as Adobe Photoshop, Microsoft Word, Adobe Audition, Microsoft PowerPoint, Adobe Animate, and Adobe Premier. I find that I am highly expierenced in &nbsp;Microsoft Word and Microsoft Powerpoint. Also, I find I am rather expierenced in Adobe Photoshop. Finally, I think I need some work in programs such as Adobe Illustrator, Adobe Animate, and Adobe Premier.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#content7-8\" data-toolbar=\"-mbrBtnMove\">Continue Biography</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-v",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Goals and Achievments",
+          "meta": ""
         },
         {
           "_styles": {
@@ -342,6 +399,26 @@
             "bgColor": "#fff"
           },
           "text": "<blockquote><p>\"I put my heart and soul into my work, and I have lost my mind in the process.\"</p><p>-Vincent van Gogh</p></blockquote>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-w",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "More About Me",
+          "meta": ""
         },
         {
           "_tags": [

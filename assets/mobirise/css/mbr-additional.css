@@ -475,12 +475,22 @@ h6,
 #menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header1-x .mbr-section-title {
+  color: #000000;
+}
+#header1-x .mbr-section-lead {
+  color: #000000;
+}
 #msg-box6-2 .mbr-section-title,
 #msg-box6-2 .lead p {
   color: #fff;
 }
 #msg-box6-2 .btn {
   font-size: 15px;
+}
+#header3-v .mbr-section-title,
+#header3-v .mbr-section-subtitle {
+  text-align: center;
 }
 #features4-3 .card-subtitle {
   color: #bcbcbc;
@@ -491,6 +501,10 @@ h6,
 }
 #content2-6 P {
   font-size: 20px;
+}
+#header3-w .mbr-section-title,
+#header3-w .mbr-section-subtitle {
+  text-align: center;
 }
 #content7-8 P {
   font-size: 20px;
