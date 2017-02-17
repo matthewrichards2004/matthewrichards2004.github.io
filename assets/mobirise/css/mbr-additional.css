@@ -413,103 +413,6 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#menu-0 .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-0 .navbar-caption {
-  color: #ffffff;
-}
-#menu-0 .navbar-toggler {
-  color: #ffffff;
-}
-#menu-0 .close-icon::before,
-#menu-0 .close-icon::after {
-  background-color: #ffffff;
-}
-#menu-0 .link,
-#menu-0 .dropdown-item {
-  color: #ffffff;
-  font-family: 'Open Sans', sans-serif;
-}
-#menu-0 .link {
-  font-size: 0.75rem;
-}
-#menu-0 .dropdown-item,
-#menu-0 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
-}
-#menu-0 .link:hover,
-#menu-0 .dropdown-item:hover,
-#menu-0 .link:focus,
-#menu-0 .dropdown-item:focus {
-  color: #c0a375;
-}
-#menu-0 .link[aria-expanded="true"],
-#menu-0 .dropdown-menu {
-  background: #0e0e0e;
-}
-#menu-0 .nav-dropdown-sm .link:focus,
-#menu-0 .nav-dropdown-sm .link:hover,
-#menu-0 .nav-dropdown-sm .dropdown-item:focus,
-#menu-0 .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
-}
-#menu-0 .navbar,
-#menu-0 .nav-dropdown-sm,
-#menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-0 .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
-}
-#menu-0 .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#menu-0 .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-0 .bg-color.transparent.opened .link:hover,
-#menu-0 .bg-color.transparent.opened .link:focus {
-  color: #c0a375;
-}
-#menu-0 .link[aria-expanded="true"],
-#menu-0 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
-}
-#header1-x .mbr-section-title {
-  color: #000000;
-}
-#header1-x .mbr-section-lead {
-  color: #000000;
-}
-#msg-box6-2 .mbr-section-title,
-#msg-box6-2 .lead p {
-  color: #fff;
-}
-#msg-box6-2 .btn {
-  font-size: 15px;
-}
-#header3-v .mbr-section-title,
-#header3-v .mbr-section-subtitle {
-  text-align: center;
-}
-#features4-3 .card-subtitle {
-  color: #bcbcbc;
-}
-#features4-3 .iconbox {
-  background-color: #f2f2f2;
-  border-color: #f2f2f2;
-}
-#content2-6 P {
-  font-size: 20px;
-}
-#header3-w .mbr-section-title,
-#header3-w .mbr-section-subtitle {
-  text-align: center;
-}
-#content7-8 P {
-  font-size: 20px;
-}
-
 #menu-9 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1078,4 +981,178 @@ h6,
 #menu-p .link[aria-expanded="true"],
 #menu-p .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+
+#menu-0 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-0 .navbar-caption {
+  color: #ffffff;
+}
+#menu-0 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-0 .close-icon::before,
+#menu-0 .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-0 .link,
+#menu-0 .dropdown-item {
+  color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+}
+#menu-0 .link {
+  font-size: 0.75rem;
+}
+#menu-0 .dropdown-item,
+#menu-0 .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-0 .link:hover,
+#menu-0 .dropdown-item:hover,
+#menu-0 .link:focus,
+#menu-0 .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-0 .link[aria-expanded="true"],
+#menu-0 .dropdown-menu {
+  background: #0e0e0e;
+}
+#menu-0 .nav-dropdown-sm .link:focus,
+#menu-0 .nav-dropdown-sm .link:hover,
+#menu-0 .nav-dropdown-sm .dropdown-item:focus,
+#menu-0 .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#menu-0 .navbar,
+#menu-0 .nav-dropdown-sm,
+#menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-0 .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#menu-0 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-0 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-0 .bg-color.transparent.opened .link:hover,
+#menu-0 .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-0 .link[aria-expanded="true"],
+#menu-0 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#msg-box6-2 .mbr-section-title,
+#msg-box6-2 .lead p {
+  color: #fff;
+}
+#msg-box6-2 .btn {
+  font-size: 15px;
+}
+#header3-v .mbr-section-title,
+#header3-v .mbr-section-subtitle {
+  text-align: center;
+}
+#features4-3 .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-3 .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#content2-6 P {
+  font-size: 20px;
+}
+#header3-w .mbr-section-title,
+#header3-w .mbr-section-subtitle {
+  text-align: center;
+}
+#content7-8 P {
+  font-size: 20px;
+}
+
+#menu-1d .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-1d .navbar-caption {
+  color: #ffffff;
+}
+#menu-1d .navbar-toggler {
+  color: #ffffff;
+}
+#menu-1d .close-icon::before,
+#menu-1d .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-1d .link,
+#menu-1d .dropdown-item {
+  color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+}
+#menu-1d .link {
+  font-size: 0.75rem;
+}
+#menu-1d .dropdown-item,
+#menu-1d .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-1d .link:hover,
+#menu-1d .dropdown-item:hover,
+#menu-1d .link:focus,
+#menu-1d .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-1d .link[aria-expanded="true"],
+#menu-1d .dropdown-menu {
+  background: #0e0e0e;
+}
+#menu-1d .nav-dropdown-sm .link:focus,
+#menu-1d .nav-dropdown-sm .link:hover,
+#menu-1d .nav-dropdown-sm .dropdown-item:focus,
+#menu-1d .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#menu-1d .navbar,
+#menu-1d .nav-dropdown-sm,
+#menu-1d .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-1d .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#menu-1d .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-1d .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-1d .bg-color.transparent.opened .link:hover,
+#menu-1d .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-1d .link[aria-expanded="true"],
+#menu-1d .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#header3-1j .mbr-section-title,
+#header3-1j .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1j H3 {
+  color: #000000;
+}
+#header1-1g .mbr-section-title {
+  color: #000000;
+}
+#header1-1g .mbr-section-lead {
+  color: #000000;
+}
+#header3-1m .mbr-section-title,
+#header3-1m .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1m H3 {
+  color: #000000;
 }
