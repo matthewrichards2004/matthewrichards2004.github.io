@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Matthew richards",
-    "currentPage": "index.html",
+    "currentPage": "photoshop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -197,17 +197,17 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery-flash-logo-2-2000x1000-800x400.jpg",
                 "image": "@PROJECT_PATH@/assets/images/gallery-flash-logo-2-2000x1000.jpg",
-                "caption": "Type caption here",
-                "active": true
+                "caption": "Flash Logo Redraw",
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/iron-man-4-2000x2975-800x1190.jpg",
-                "image": "@PROJECT_PATH@/assets/images/iron-man-4-2000x2975.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/gallary-iron-man-4-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallary-iron-man-4-2000x1000.jpg",
+                "caption": "Iron Man Redraw",
                 "active": false
               },
               {
@@ -215,10 +215,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/batman-logo-1-800x472.png",
-                "image": "@PROJECT_PATH@/assets/images/batman-logo-1.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/gallary-batman-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallary-batman-2000x1000.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
