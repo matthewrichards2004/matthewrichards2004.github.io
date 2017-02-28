@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Matthew richards",
-    "currentPage": "photoshop.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 60,
+    "uniqCompNum": 62,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -218,7 +218,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/gallary-batman-2000x1000-800x400.jpg",
                 "image": "@PROJECT_PATH@/assets/images/gallary-batman-2000x1000.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -255,10 +255,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/matthew-richards-12-inch-record-layout-recovered-2000x3714-800x1485.jpg",
-                "image": "@PROJECT_PATH@/assets/images/matthew-richards-12-inch-record-layout-recovered-2000x3714.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallary-12-inch-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallary-12-inch-2000x1000.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -2084,13 +2084,18 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#890f0a",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Matthew Richards"
+          "text": "Copyright (c) 2017 Matthew Richards",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     },
@@ -2199,7 +2204,7 @@
               "text-align": "center"
             },
             "H3": {
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -2210,7 +2215,7 @@
           "_params": {
             "paddingTop": "5",
             "paddingBottom": 1,
-            "bgColor": "#483c2c",
+            "bgColor": "#890f0a",
             "showMeta": true
           },
           "title": "Welcome to Matthew Richards' Website",
@@ -2221,12 +2226,20 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "header1-1g",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/293091-star-wars-r2-d2-robot-minimalism-bb-2000x1125.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/boba-fett-2000x1250.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2243,15 +2256,7 @@
           },
           "title": "Matthew Richards...",
           "text": "Hello stranger.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">Learn more about me</a> ",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000000"
-            },
-            ".mbr-section-lead": {
-              "color": "#000000"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">Learn more about me</a> "
         },
         {
           "_styles": {
@@ -2259,7 +2264,7 @@
               "text-align": "center"
             },
             "H3": {
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -2270,7 +2275,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#483c2c",
+            "bgColor": "#890f0a",
             "showMeta": true
           },
           "title": "Gallery",
@@ -2330,7 +2335,7 @@
             "spacing": 1,
             "showText": false,
             "filter": false,
-            "bgColor": "#483c2c",
+            "bgColor": "#890f0a",
             "filterBgColor": true,
             "fullWidth": true,
             "showBullets": true
@@ -2338,6 +2343,36 @@
           "_anchor": "gallery3-1l",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-1p",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#890f0a",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UC3UAwEEt2MdiSmKEQZsFxIA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
         },
         {
           "_tags": [
@@ -2351,14 +2386,14 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#890f0a",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
           "text1": "<strong>Address</strong><br>6091 SW 29th ST.<br>\nMiami, FL 33155<br><br><br>\n<strong>Contacts</strong><br>\nEmail: mrichards@miamiartsstudio.com<br>\nPhone: 786-502-1369<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://mas.dadeschools.net/\">Miami Arts Studio</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://mas.dadeschools.net/\" class=\"text-white\">Miami Arts Studio</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "mrichards@miamiartsstudio.com",
@@ -2387,7 +2422,15 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_tags": [
@@ -2401,13 +2444,18 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#890f0a",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Matthew Richards"
+          "text": "Copyright (c) 2017 Matthew Richards",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     }

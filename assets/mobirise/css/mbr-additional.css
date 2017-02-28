@@ -1073,6 +1073,9 @@ h6,
 #content7-8 P {
   font-size: 20px;
 }
+#footer1-1h P {
+  color: #ffffff;
+}
 
 #menu-1d .hide-buttons .nav-btn {
   display: none !important;
@@ -1141,18 +1144,34 @@ h6,
   text-align: center;
 }
 #header3-1j H3 {
-  color: #000000;
+  color: #ffffff;
 }
 #header1-1g .mbr-section-title {
-  color: #000000;
+  color: #ffffff;
 }
 #header1-1g .mbr-section-lead {
-  color: #000000;
+  color: #ffffff;
 }
 #header3-1m .mbr-section-title,
 #header3-1m .mbr-section-subtitle {
   text-align: center;
 }
 #header3-1m H3 {
-  color: #000000;
+  color: #ffffff;
+}
+#social-buttons4-1p .mbr-section-title,
+#social-buttons4-1p .btn-social {
+  color: #fff;
+}
+#social-buttons4-1p .mbr-section-title {
+  color: #ffffff;
+}
+#contacts4-1n P {
+  color: #ffffff;
+}
+#contacts4-1n STRONG {
+  color: #ffffff;
+}
+#footer1-1h P {
+  color: #ffffff;
 }
