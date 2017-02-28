@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Matthew richards",
-    "currentPage": "index.html",
+    "currentPage": "photoshop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -161,7 +161,7 @@
             "paddingBottom": 0,
             "images": [
               {
-                "tags": "Creative",
+                "tags": "Album Artwork",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -171,7 +171,7 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Album Artwork",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -181,7 +181,7 @@
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "Dadeschool Logo Contest",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -191,7 +191,7 @@
                 "active": false
               },
               {
-                "tags": "Beautiful",
+                "tags": "Super Hero Logo Redraw",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -201,7 +201,7 @@
                 "active": false
               },
               {
-                "tags": "Responsive",
+                "tags": "Super Hero Logo Redraw",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -211,57 +211,57 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Super Hero Logo Redraw",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallary-batman-2000x1000-800x400.jpg",
                 "image": "@PROJECT_PATH@/assets/images/gallary-batman-2000x1000.jpg",
-                "caption": "Type caption here",
+                "caption": "Batman Re-Draw",
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Super Hero Logo Redraw",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/avengers-2000x982-800x392.png",
                 "image": "@PROJECT_PATH@/assets/images/avengers-2000x982.png",
-                "caption": "Type caption here",
+                "caption": "Avengers Re-Draw",
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Super Hero Logo Redraw",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/matthew-richards-hulk-3-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/matthew-richards-hulk-3-2000x2000.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/galary-hulk-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/galary-hulk-2000x1000.jpg",
+                "caption": "Hulk Logo Re-Draw",
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Super Hero Logo Redraw",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/matthew-richards-marvel-symbols-6-2000x1973-800x789.jpg",
-                "image": "@PROJECT_PATH@/assets/images/matthew-richards-marvel-symbols-6-2000x1973.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/gallary-logos-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallary-logos-2000x1000.jpg",
+                "caption": "Avengers Logo Redraw",
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Album Artwork",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallary-12-inch-2000x1000-800x400.jpg",
                 "image": "@PROJECT_PATH@/assets/images/gallary-12-inch-2000x1000.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Brochure (Youth Fair Contest)",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -271,23 +271,23 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Brochure (Youth Fair Contest)",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallary-brochure-2000x1000-800x400.jpg",
                 "image": "@PROJECT_PATH@/assets/images/gallary-brochure-2000x1000.jpg",
                 "caption": "Brochure Side 1",
-                "active": false
+                "active": true
               },
               {
-                "tags": "Animated",
+                "tags": "Album Artwork",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/matthew-richards-dvd-label-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/matthew-richards-dvd-label-2000x2000.png",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/gallary-dvd-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallary-dvd-2000x1000.jpg",
+                "caption": "Album Artwork DvD Label",
                 "active": false
               }
             ],
