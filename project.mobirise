@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Matthew richards",
-    "currentPage": "photoshop.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 62,
+    "uniqCompNum": 63,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -2200,26 +2200,42 @@
         },
         {
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
+            ".mbr-section-title, p": {
+              "color": "#fff"
             },
-            "H3": {
+            ".lead": {
               "color": "#ffffff"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-1j",
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1q",
           "_params": {
-            "paddingTop": "5",
-            "paddingBottom": 1,
-            "bgColor": "#890f0a",
-            "showMeta": true
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/58FIrEJFkns?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
           },
-          "title": "Welcome to Matthew Richards' Website",
-          "meta": ""
+          "title": "Matthew Richards....",
+          "text": "A Mariachi Band in Cartangena, Columbia",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_tags": [
