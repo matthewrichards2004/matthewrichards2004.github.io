@@ -475,6 +475,15 @@ h6,
 #menu-9 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#contacts4-1n P {
+  color: #ffffff;
+}
+#contacts4-1n STRONG {
+  color: #ffffff;
+}
+#footer1-1h P {
+  color: #ffffff;
+}
 
 #menu-b .hide-buttons .nav-btn {
   display: none !important;
@@ -538,71 +547,20 @@ h6,
 #menu-b .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-
-#menu-d .hide-buttons .nav-btn {
-  display: none !important;
+#header1-10 .mbr-section-lead {
+  color: #000000;
 }
-#menu-d .navbar-caption {
+#header1-10 .mbr-section-title {
+  color: #000000;
+}
+#contacts4-1n P {
   color: #ffffff;
 }
-#menu-d .navbar-toggler {
+#contacts4-1n STRONG {
   color: #ffffff;
 }
-#menu-d .close-icon::before,
-#menu-d .close-icon::after {
-  background-color: #ffffff;
-}
-#menu-d .link,
-#menu-d .dropdown-item {
+#footer1-1h P {
   color: #ffffff;
-  font-family: 'Open Sans', sans-serif;
-}
-#menu-d .link {
-  font-size: 0.75rem;
-}
-#menu-d .dropdown-item,
-#menu-d .nav-dropdown-sm .link {
-  font-size: 0.812rem;
-}
-#menu-d .link:hover,
-#menu-d .dropdown-item:hover,
-#menu-d .link:focus,
-#menu-d .dropdown-item:focus {
-  color: #c0a375;
-}
-#menu-d .link[aria-expanded="true"],
-#menu-d .dropdown-menu {
-  background: #0e0e0e;
-}
-#menu-d .nav-dropdown-sm .link:focus,
-#menu-d .nav-dropdown-sm .link:hover,
-#menu-d .nav-dropdown-sm .dropdown-item:focus,
-#menu-d .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
-}
-#menu-d .navbar,
-#menu-d .nav-dropdown-sm,
-#menu-d .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-d .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
-}
-#menu-d .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#menu-d .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-d .bg-color.transparent.opened .link:hover,
-#menu-d .bg-color.transparent.opened .link:focus {
-  color: #c0a375;
-}
-#menu-d .link[aria-expanded="true"],
-#menu-d .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
-}
-#form1-r .form-control-label {
-  color: #232323;
 }
 
 #menu-f .hide-buttons .nav-btn {
@@ -667,6 +625,15 @@ h6,
 #menu-f .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#contacts4-1n P {
+  color: #ffffff;
+}
+#contacts4-1n STRONG {
+  color: #ffffff;
+}
+#footer1-1h P {
+  color: #ffffff;
+}
 
 #menu-h .hide-buttons .nav-btn {
   display: none !important;
@@ -729,6 +696,15 @@ h6,
 #menu-h .link[aria-expanded="true"],
 #menu-h .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#contacts4-1n P {
+  color: #ffffff;
+}
+#contacts4-1n STRONG {
+  color: #ffffff;
+}
+#footer1-1h P {
+  color: #ffffff;
 }
 
 #menu-j .hide-buttons .nav-btn {
@@ -793,6 +769,15 @@ h6,
 #menu-j .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#contacts4-1n P {
+  color: #ffffff;
+}
+#contacts4-1n STRONG {
+  color: #ffffff;
+}
+#footer1-1h P {
+  color: #ffffff;
+}
 
 #menu-l .hide-buttons .nav-btn {
   display: none !important;
@@ -855,6 +840,21 @@ h6,
 #menu-l .link[aria-expanded="true"],
 #menu-l .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#header1-12 .mbr-section-lead {
+  color: #0019ff;
+}
+#header1-12 .mbr-section-title {
+  color: #0019ff;
+}
+#contacts4-1n P {
+  color: #ffffff;
+}
+#contacts4-1n STRONG {
+  color: #ffffff;
+}
+#footer1-1h P {
+  color: #ffffff;
 }
 
 #menu-n .hide-buttons .nav-btn {
@@ -919,6 +919,15 @@ h6,
 #menu-n .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#contacts4-1n P {
+  color: #ffffff;
+}
+#contacts4-1n STRONG {
+  color: #ffffff;
+}
+#footer1-1h P {
+  color: #ffffff;
+}
 
 #menu-p .hide-buttons .nav-btn {
   display: none !important;
@@ -981,6 +990,15 @@ h6,
 #menu-p .link[aria-expanded="true"],
 #menu-p .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#contacts4-1n P {
+  color: #ffffff;
+}
+#contacts4-1n STRONG {
+  color: #ffffff;
+}
+#footer1-1h P {
+  color: #ffffff;
 }
 
 #menu-0 .hide-buttons .nav-btn {
@@ -1072,6 +1090,12 @@ h6,
 }
 #content7-8 P {
   font-size: 20px;
+}
+#contacts4-1n P {
+  color: #ffffff;
+}
+#contacts4-1n STRONG {
+  color: #ffffff;
 }
 #footer1-1h P {
   color: #ffffff;
