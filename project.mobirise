@@ -2440,7 +2440,12 @@
           },
           "title": "Intro Youtube Video",
           "text": "&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://youtu.be/z90l_0pkaUM\" data-toolbar=\"-mbrBtnMove\">Link to video</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.youtube.com/watch?v=hjL714g-zXA&amp;feature=youtu.be\" data-toolbar=\"-mbrBtnMove\">Link to video</a>",
+          "_styles": {
+            "H3": {
+              "color": "#000000"
+            }
+          }
         },
         {
           "_styles": {
