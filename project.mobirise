@@ -2394,6 +2394,14 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "msg-box5-1u",
           "_params": {
             "imageSize": 50,
@@ -2420,7 +2428,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/comic-1400x1811.jpg",
+              "src": "@PROJECT_PATH@/assets/images/believer-1400x1400.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -2438,14 +2446,9 @@
               "size": 0
             }
           },
-          "title": "Intro Youtube Video",
-          "text": "&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.youtube.com/watch?v=hjL714g-zXA&amp;feature=youtu.be\" data-toolbar=\"-mbrBtnMove\">Link to video</a>",
-          "_styles": {
-            "H3": {
-              "color": "#000000"
-            }
-          }
+          "title": "Newest Youtube Video",
+          "text": "Matthew Richards - Make The Cut - Imagine Dragons: Believer &nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.youtube.com/watch?v=61BdL5MXrCE&amp;t=76s\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Link to video</a>"
         },
         {
           "_styles": {
